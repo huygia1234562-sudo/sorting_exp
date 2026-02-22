@@ -1,0 +1,10 @@
+Dữ liệu 1 - sort (C++): 345 ms
+Dữ liệu 2 - sort (C++): 197 ms
+Dữ liệu 3 - sort (C++): 481 ms
+Dữ liệu 4 - sort (C++): 404 ms
+Dữ liệu 5 - sort (C++): 411 ms
+Dữ liệu 6 - sort (C++): 427 ms
+Dữ liệu 7 - sort (C++): 476 ms
+Dữ liệu 8 - sort (C++): 563 ms
+Dữ liệu 9 - sort (C++): 443 ms
+Dữ liệu 10 - sort (C++): 407 ms
